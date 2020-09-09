@@ -19,3 +19,13 @@ Meu nome é Priscila mas pode me chamar de Pri :blush:, hoje sou uma desenvolved
 No meu tempo livre gosto de assistir filmes :movie_camera:, séries :tv:  e jogar vídeo game :video_game:
 
 
+
+
+
+### Hi there👋
+
+My name is Priscila but you can call me Pri 😊, today I am a front-end developer in training I took several courses, participated in meetups and I am in a bootcamp, I wrote thousands of lines of code. I learned HTML5, CSS3, Javascript, Git, GitHub, agile methodology and I am studying Node.Js, ReactJs, React Native and Typescript.
+
+In my free time I like to watch movies séries, series 📺 and play video games 🎮
+
+
