@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 <!--
 **pripinheiro/pripinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Meu nome é Priscila mas pode me chamar de Pri :blush:, hoje sou uma desenvolvedora front-end em formação fiz diversos cursos, participei de meetups e estou em um bootcamp, escrevi milhares de linhas de código. Aprendi HTML5, CSS3, Javascript, Git, GitHub, metodología ágil e estou estudando Node.Js, ReactJs, React Native e Typescript.
+
+No meu tempo livre gosto de assistir filmes :movie_camera:, séries :tv: e jogar vídeo game :video_game:
+
+Onde me encontrar?
+
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pripine)](https://twitter.com/pripine)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com//in/pri-pinheiro/)](https://www.linkedin.com//in/pri-pinheiro/)
