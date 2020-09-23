@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Meu nome é Priscila mas pode me chamar de Pri :blush:, hoje sou uma desenvolvedora front-end em formação fiz diversos cursos, participei de meetups e estou em um bootcamp, escrevi milhares de linhas de código. Aprendi HTML5, CSS3, Javascript, Git, GitHub, metodología ágil e estou estudando Node.Js, ReactJs, React Native e Typescript.
+Meu nome é Priscila mas pode me chamar de Pri :blush:, hoje sou uma desenvolvedora front-end em formação fiz diversos cursos, participei de meetups e estou em um bootcamp, escrevi centenas de linhas de código. Aprendi HTML5, CSS3, Javascript, Git, GitHub, metodología ágil e estou estudando Node.Js, ReactJs, React Native e Typescript.
 
 No meu tempo livre gosto de assistir filmes :movie_camera:, séries :tv:  e jogar vídeo game :video_game:
