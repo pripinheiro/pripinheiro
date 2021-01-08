@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Meu nome é Priscila mas pode me chamar de Pri :blush:, hoje sou uma desenvolvedora front-end em formação fiz diversos cursos, participei de meetups e estou em um bootcamp, escrevi centenas de linhas de código. Aprendi HTML5, CSS3, Javascript, Git, GitHub, metodología ágil e estou estudando Node.Js, ReactJs, React Native e Typescript.
+Meu nome é Priscila mas pode me chamar de Pri 😊. Sou uma desenvolvedora front-end em formação. Finalizei o bootcamp GoStack da Rocketseat em 12/2020 em que tive mentoria do Ceo da Rocketseat por reconhecimento do meu desempenho, e também participei do programa de formação de mentores  o Space Squad oferecido para algumas pessoas que se destacaram ao longo do bootcamp, onde aprimorei minhas habilidades de comunicação, escrita e foco. Já escrevi centenas de linhas de código, participo de meetups e continuo a fazer cursos para me especializar. Me sinto confortável com HTML5, CSS3, Javascript, Git, GitHub, metodologia ágil e estou estudando Node.Js, ReactJs, React Native e Typescript.
 
 No meu tempo livre gosto de assistir filmes :movie_camera:, séries :tv:  e jogar vídeo game :video_game:
